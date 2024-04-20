@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\KPL C#\\modul8_1302220037\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6F306098-CFAF-41BB-B212-BB90DE842E3F}|modul8_1302220037\\modul8_1302220037.csproj|d:\\kpl c#\\modul8_1302220037\\modul8_1302220037\\banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F306098-CFAF-41BB-B212-BB90DE842E3F}|modul8_1302220037\\modul8_1302220037.csproj|solutionrelative:modul8_1302220037\\banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F306098-CFAF-41BB-B212-BB90DE842E3F}|modul8_1302220037\\modul8_1302220037.csproj|d:\\kpl c#\\modul8_1302220037\\modul8_1302220037\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F306098-CFAF-41BB-B212-BB90DE842E3F}|modul8_1302220037\\modul8_1302220037.csproj|solutionrelative:modul8_1302220037\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BankTransferConfig.cs",
+              "DocumentMoniker": "D:\\KPL C#\\modul8_1302220037\\modul8_1302220037\\BankTransferConfig.cs",
+              "RelativeDocumentMoniker": "modul8_1302220037\\BankTransferConfig.cs",
+              "ToolTip": "D:\\KPL C#\\modul8_1302220037\\modul8_1302220037\\BankTransferConfig.cs",
+              "RelativeToolTip": "modul8_1302220037\\BankTransferConfig.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAAFUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:46:23.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\KPL C#\\modul8_1302220037\\modul8_1302220037\\Program.cs",
               "RelativeDocumentMoniker": "modul8_1302220037\\Program.cs",
               "ToolTip": "D:\\KPL C#\\modul8_1302220037\\modul8_1302220037\\Program.cs",
               "RelativeToolTip": "modul8_1302220037\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwB0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T00:42:39.098Z",
               "EditorCaption": ""
